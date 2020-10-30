@@ -1,5 +1,6 @@
 # home-lab
-How I set up my home lab
+How I set up my home lab 
+(OK, this is still a work in progress!)
 
 ---
 ## Network Setup
